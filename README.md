@@ -54,3 +54,47 @@ penjelasan tentang aplikasi admin
 
 ![WhatsApp Image 2025-01-20 at 02 22 18_d1899764](https://github.com/user-attachments/assets/23a4ce65-e698-4b92-9a0b-e0fbc775bdeb)
 
+
+
+Tampilan Pengguna
+
+1. splashscreen
+
+![WhatsApp Image 2025-01-20 at 03 10 48_94a0f4f2](https://github.com/user-attachments/assets/d2a27c61-4724-46a6-b457-7c05132309a7)
+
+2. Register
+
+![WhatsApp Image 2025-01-20 at 03 10 49_465192b8](https://github.com/user-attachments/assets/e409a327-304b-4721-8930-db337b949ad4)
+
+3. Login
+pengguna bisa login dengan username dan password 
+
+![WhatsApp Image 2025-01-20 at 03 10 48_3efd8cf9](https://github.com/user-attachments/assets/c38ae6b2-4b58-4a11-9f23-bcb94160a304)
+
+4.  Tampilan Home
+
+![WhatsApp Image 2025-01-20 at 03 10 49_48217144](https://github.com/user-attachments/assets/81dfc40e-7f77-4301-8413-d2857e1f3701)
+
+5. Pemasukan
+
+![WhatsApp Image 2025-01-20 at 03 10 49_64a1c6de](https://github.com/user-attachments/assets/d59004b8-0f52-4f53-a653-42590403e91d)
+
+6. ketika menginputkan pemasukan maka akan ada saldo
+
+![WhatsApp Image 2025-01-20 at 03 10 50_5908a445](https://github.com/user-attachments/assets/d4490c8c-b853-4477-be5d-c9a5267e4cae)
+
+7. mutasi
+
+![WhatsApp Image 2025-01-20 at 03 10 50_89de85a8](https://github.com/user-attachments/assets/91438e49-dbc5-46f0-93c2-5801a5247841)
+
+8. Tampilan pengeluaran
+
+![WhatsApp Image 2025-01-20 at 03 10 51_44e0e20e](https://github.com/user-attachments/assets/a5efb762-6542-4de7-971f-d53e8c202cdc)
+
+9.  konversi mata uang
+
+![WhatsApp Image 2025-01-20 at 03 10 50_4a9fbe9d](https://github.com/user-attachments/assets/ca6ddca8-beb8-42ec-bbec-bcc89e773553)
+
+10. Tentang Aplikasi
+
+![WhatsApp Image 2025-01-20 at 03 10 51_decabc8b](https://github.com/user-attachments/assets/dac7ae77-b151-4624-9aca-e65b4066d635)
