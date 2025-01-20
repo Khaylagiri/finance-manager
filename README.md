@@ -4,7 +4,8 @@
 
 ## DATABASE
 
-![image](https://github.com/user-attachments/assets/7cee1cc3-d07b-4433-b9a3-fb20d38c7fb7)
+<img src="https://github.com/user-attachments/assets/7cee1cc3-d07b-4433-b9a3-fb20d38c7fb7" alt="Database" width="300"/>
+
 
 ## Tampilan Admin
 
