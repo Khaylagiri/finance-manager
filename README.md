@@ -2,6 +2,10 @@
 
 [![Deskripsi Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/OaXVDwUCGjY)
 
+## DATABASE
+
+![image](https://github.com/user-attachments/assets/7cee1cc3-d07b-4433-b9a3-fb20d38c7fb7)
+
 ## Tampilan Admin
 
 ### 1. Splashscreen
